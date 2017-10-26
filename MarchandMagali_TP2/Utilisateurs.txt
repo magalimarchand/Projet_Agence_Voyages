@@ -1,0 +1,6 @@
+Nom: admin - Mot de passe: toto
+Nom: u1 - Mot de passe: m1
+Nom: u2 - Mot de passe: m2
+Nom: u3 - Mot de passe: m3
+Nom: u4 - Mot de passe: m4
+

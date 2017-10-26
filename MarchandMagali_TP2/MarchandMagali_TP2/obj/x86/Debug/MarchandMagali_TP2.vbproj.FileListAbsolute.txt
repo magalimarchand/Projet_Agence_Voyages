@@ -1,0 +1,15 @@
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.vbprojResolveAssemblyReference.cache
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.Resources.resources
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.vbproj.GenerateResource.Cache
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\bin\Debug\MarchandMagali_TP2.exe.config
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\bin\Debug\MarchandMagali_TP2.exe
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\bin\Debug\MarchandMagali_TP2.pdb
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\bin\Debug\MarchandMagali_TP2.xml
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.exe
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.xml
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.pdb
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.Commis.resources
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.GerantClients.resources
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.GerantVoyages.resources
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.Connexion.resources
+D:\ROSEMONT\SESSION_04\Graphique 2\TP2\MarchandMagali_TP2\MarchandMagali_TP2\obj\x86\Debug\MarchandMagali_TP2.Administrateur.resources
